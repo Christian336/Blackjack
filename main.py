@@ -76,7 +76,7 @@ while 1:
     continue
 
   
-  print("1 - Stand(parar)\n2 - Hit(pegar mais uma carta\n3 - Surrender(rendição)")
+  print("1 - Stand(parar)\n2 - Hit(pegar mais uma carta)\n3 - Surrender(rendição)")
   x = int(input("Qual jogada você deseja fazer?"))
 
   if(x == 1):
